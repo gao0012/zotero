@@ -1,0 +1,18 @@
+<h1><span style="color: #7CB342">${title}</span></h1><strong><hr/></strong>
+<span style="color: #1976D2">📅&nbsp;Year of Publication:</span>${year}<br/>
+<span style="color: #1976D2">📘&nbsp;Journal Title:</span>${publicationTitle}<br/>
+<span style="color: #1976D2">📂&nbsp;Impact Factor:</span>${callNumber}<br/>
+<span style="color: #1976D2">✏️&nbsp;Authors:</span>${authors}</strong><strong><hr/></strong>
+
+<h2><span style="color: #F06292">🔍&nbsp;Abstract:</span>${abstractNote}</h2><strong><hr/></strong>
+<h2><span style="background-color: #81D4FA">🌐&nbsp;Research Objective:</span></h2>
+<h2><span style="background-color: #F48FB1">💭&nbsp;Research Background:</span></h2>
+<h2><span style="background-color: #E0E0E0">🔧&nbsp;Research Methodology:</span></h2>
+<h2><span style="background-color: #C5E1A5">📊&nbsp;Case Analysis:</span></h2>
+<h2><span style="background-color: #FFB6A6">📍&nbsp;Results:</span></h2>
+<h2><span style="background-color: #FFB74D">💬&nbsp;Discussion:</span></h2>
+<h2><span style="background-color: #CE93D8">🚩&nbsp;Conclusion:</span></h2><strong><hr/></strong>
+
+<h3><span style="background-color: #FFF176">💡&nbsp;&nbsp;Innovations:</span></span><br/></h3>
+<h3><span style="background-color: #03A9F4">⚠️&nbsp;Limitations:</span><br/></h3>
+<h3><span style="background-color: #9CCC65">🎈&nbsp;Improvements:</span><br/></h3>
